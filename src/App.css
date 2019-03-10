@@ -1,0 +1,41 @@
+body{
+  background: lightyellow;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  display: flex; 
+  justify-content: center; 
+
+}
+
+.btn{
+  background: pink;
+  margin: 20px;
+}
+
+.add-btn{
+  background: lightblue;
+  width: 20px;
+  height: 20px;
+}
+.app-title{
+  background-color: #bef; 
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center; 
+  font-size: calc(10px + 2vmin); 
+  color: white; 
+}
+
+.container{
+  border: 5px solid pink;
+  border-radius: 25px;
+}
+
+.material-icons{
+  display: content; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+
